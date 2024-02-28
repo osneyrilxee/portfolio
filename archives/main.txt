@@ -1,0 +1,39 @@
+html : 
+ - main.html ( content )
+
+css : 
+ - main.css ( style and animation )
+
+js : 
+ - main.js ( animation and react node js with )
+
+ 
+
+ Qui suis-je ? Rilxee
+Pour la faire courte :
+Je suis Rilxee, un développeur web de 16 ans,
+je touche-à-tout ce qu'on peut faire sur Internet.
+(c'est-à-dire beaucoup de choses).
+
+Je suis un passionné d'Internet depuis que je suis jeune dés 8-9 ans.
+Je suit toutes les actualités que ce soit d'Internet ou dans la vie réel.
+Peut-être un jour dans la Team Spotter, on croise les doigts
+
+Quand on apprend, on crée de l'expérience.
+Quand on a de l'expérience, on a du savoir-faire.
+Mon savoir-faire en développement web me permet
+de concevoir des sites et des programmes utiles, esthétiques et fun accessible à tous !
+
+Je suis aussi très présent sur les réseaux notamment sur Twitter,
+Twitch et Instagram, ou j'aime bien partager mes créations et mes pensées.
+
+Moi sur Internet ?
+   
+Afficher plus...
+
+Découvrir mon parcours
+Rilxee © 2023
+
+Twitter Instagram
++
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia ex nulla rerum adipisci unde inventore quis reiciendis perspiciatis totam natus, aliquid perferendis dicta. Blanditiis minima perferendis obcaecati. Perspiciatis, voluptatum asperiores?
