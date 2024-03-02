@@ -58,3 +58,5 @@ Maintenant que les présentations ont été faites, je vous laisse ici, et moi j
 
 Merci d'avoir lu jusqu'ici.
  -->
+
+ +15h of work under 3 days
