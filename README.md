@@ -1,6 +1,5 @@
 # informations 
 
-<!-- 
 
 EN : 
 
@@ -29,7 +28,7 @@ Now that the introductions have been made, I leave you here, and I continue this
 
 Thanks for reading so far.
 
-________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 
 FR : 
 
@@ -57,6 +56,5 @@ Je vise à atteindre le statut de développeur Fullstack d'ici 2025. Je dois don
 Maintenant que les présentations ont été faites, je vous laisse ici, et moi je poursuis ce voyage assez impressionnant. 
 
 Merci d'avoir lu jusqu'ici.
- -->
 
  +15h of work under 3 days
