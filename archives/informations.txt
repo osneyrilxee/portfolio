@@ -1,0 +1,25 @@
+/** main.html **/
+
+__**police used :**__
+
+
+font name : Jost 
+designed  : by Owen Earl
+font link : https://fonts.google.com/specimen/Jost?preview.text=%C3%A0%20part%20si%20tu%20me%20connais%20d%C3%A9j%C3%A0%20tu%20peux%20sauter%20cette%20%C3%A9tape%20
+
+__
+"
+Jost: CSS class for a variable style :
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.jost-<uniquifier> {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+"
+__
+
