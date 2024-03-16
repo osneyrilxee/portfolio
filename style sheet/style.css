@@ -8,10 +8,6 @@ body {
   margin: 0px 1500px 0px 0px;
 }
 
-/* create a class for the links */
-.linkp {
-
-  .linkp:after {
-    color: grey;
-  }
+.linkp:link {
+  color: white;
 }
